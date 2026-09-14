@@ -4,6 +4,26 @@
 
 ---
 
+
+## 每日市内交通速查
+
+| 日期 | 城市 | 当天怎么走 |
+|---|---|---|
+| **9/19** | 罗马 | 晚到 + 大箱子：**打车去酒店** |
+| **9/20** | 罗马 | 酒店→斗兽场：地铁/公交；市区景点：**步行**；晚间换酒店：**打车** |
+| **9/21** | 罗马 | 路演优先**打车**；结束后市区按位置步行/公交/地铁 |
+| **9/22** | 罗马 | 酒店→梵蒂冈寄存：**打车**；梵蒂冈步行；取行李→Termini：**打车** |
+| **9/22** | 佛罗伦萨 | SMN→酒店：近就步行，不想拖箱子就短程打车 |
+| **9/23** | 佛罗伦萨 | 老城全程步行；米开朗基罗广场回程坐**23路公交** |
+| **9/24** | 比萨 | 车站→斜塔：**公交**；广场步行；回车站看体力步行或公交 |
+| **9/25** | 威尼斯 Mestre | 火车站→酒店：**步行约5分钟** |
+| **9/26** | 威尼斯 | Mestre→主岛：区域火车；主岛步行；Accademia→Ferrovia：**Vaporetto 1号线** |
+| **9/27** | 米兰 | Centrale吃饭后→酒店：优先地铁/公交，累或拖箱子不方便就打车 |
+| **9/28** | 米兰 | **ATM纸质24小时票**；酒店→市中心公共交通；中心区步行；累了随时坐车 |
+| **9/29** | 米兰 | 酒店→**M4蓝线**→Linate Airport |
+
+---
+
 ## 已确认 / 计划预约
 
 - **9/20 罗马斗兽场 Colosseum：11:15**
@@ -29,12 +49,13 @@
 - 斗兽场结束后找附近吃午饭。
 - 古罗马广场、威尼斯广场：顺路看即可，不强求完整参观。
 
-**下午**
-建议按顺路节奏：
-1. 鲜花广场 Campo de' Fiori
-2. 纳沃纳广场 Piazza Navona（顺路可加）
-3. 万神殿 Pantheon
-4. 特雷维喷泉 Trevi Fountain
+**当天路线（按顺序）**
+1. **罗马斗兽场｜Colosseo / Colosseum** — 已预约 11:15
+2. **威尼斯广场｜Piazza Venezia** — 顺路看
+3. **鲜花广场｜Campo de' Fiori** — 下午 City Walk
+4. **纳沃纳广场｜Piazza Navona** — 顺路可加
+5. **万神殿｜Pantheon** — 外观/广场为主
+6. **特雷维喷泉｜Fontana di Trevi** — 傍晚拍照
 
 **晚上**
 - 市区吃晚饭。
@@ -90,16 +111,16 @@
 ### 9/23｜佛罗伦萨 City Walk
 中午前后慢慢开始。
 
-**推荐路线**
-1. 圣母百花大教堂 Duomo
-2. 共和国广场 Piazza della Repubblica
-3. 野猪喷泉 Mercato del Porcellino
-4. Orsanmichele 外观（顺路）
-5. 领主广场 Piazza della Signoria
-6. 乌菲兹美术馆外观（不进馆）
-7. 老桥 Ponte Vecchio
-8. 阿诺河边慢走
-9. 傍晚前往 **米开朗基罗广场 Piazzale Michelangelo**
+**推荐路线（按顺序）**
+1. **圣母百花大教堂｜Cattedrale di Santa Maria del Fiore / Duomo di Firenze**
+2. **共和国广场｜Piazza della Repubblica**
+3. **野猪喷泉｜Fontana del Porcellino / Mercato del Porcellino**
+4. **奥尔桑米凯莱教堂｜Chiesa di Orsanmichele** — 外观顺路看
+5. **领主广场｜Piazza della Signoria**
+6. **乌菲兹美术馆｜Galleria degli Uffizi** — 只看外观，不进馆
+7. **老桥｜Ponte Vecchio**
+8. **阿诺河｜Fiume Arno** — 沿河慢走
+9. **米开朗基罗广场｜Piazzale Michelangelo** — 傍晚看全景
 
 **米开朗基罗广场**
 - 看城市全景和傍晚景色。
@@ -132,6 +153,15 @@
 - 预计 **14:00 左右**到达。
 
 ![比萨半日游路线](italy_trip_plan_assets/pisa.png)
+
+
+### 当天路线（按顺序）
+1. **比萨中央火车站｜Pisa Centrale**
+2. **奇迹广场｜Piazza dei Miracoli / Piazza del Duomo**
+3. **比萨斜塔｜Torre di Pisa** — 计划预约 15:30 登塔
+4. **比萨大教堂｜Cattedrale di Pisa** — 外观为主
+5. **圣若望洗礼堂｜Battistero di San Giovanni** — 外观为主
+6. **比萨中央火车站｜Pisa Centrale** — 回程
 
 ### 到达后
 - Pisa Centrale → 奇迹广场：
@@ -190,20 +220,20 @@
 - Mestre → Venezia Santa Lucia。
 - 到主岛后开始步行。
 
-**推荐路线**
-1. Santa Lucia 火车站
-2. San Polo 一带
-3. **Caffè del Doge** 第一休息点
-4. 里亚托桥 Rialto Bridge
-5. 圣马可广场 Piazza San Marco
-6. 圣马可大教堂外观
-7. 总督宫外观
-8. 叹息桥 Bridge of Sighs
-9. 往 Dorsoduro / Accademia 方向走
-10. **Bar Ai Artisti** 第二休息点
-11. 学院桥 Ponte dell'Accademia
-12. 从 Accademia 坐 **Vaporetto 1 号线**回 Ferrovia / Santa Lucia
-13. Santa Lucia → Mestre
+**推荐路线（按顺序）**
+1. **威尼斯圣露西亚火车站｜Venezia Santa Lucia**
+2. **圣保罗区｜San Polo**
+3. **道奇咖啡馆｜Caffè del Doge** — 第一休息点
+4. **里亚托桥｜Ponte di Rialto**
+5. **圣马可广场｜Piazza San Marco**
+6. **圣马可大教堂｜Basilica di San Marco** — 外观为主
+7. **总督宫｜Palazzo Ducale** — 外观为主
+8. **叹息桥｜Ponte dei Sospiri**
+9. **多尔索杜罗区｜Dorsoduro** — 慢慢散步
+10. **艺术家酒吧｜Bar Ai Artisti** — 第二休息点
+11. **学院桥｜Ponte dell'Accademia**
+12. **学院桥码头｜Accademia** — 坐 Vaporetto 1号线
+13. **火车站码头｜Ferrovia** — 下船后进 Santa Lucia
 
 ![威尼斯主岛 City Walk 路线](italy_trip_plan_assets/venice_route.png)
 
@@ -257,17 +287,15 @@
 ### 9/28｜米兰 City Walk
 当天买 **ATM 纸质 24 小时票**。
 
-**推荐路线**
-1. 酒店 → 市中心
-2. 米兰大教堂 Duomo
-3. 埃马努埃莱二世长廊 Galleria Vittorio Emanuele II
-4. 斯卡拉广场 Piazza della Scala
-5. Brera 街区
-6. 斯福尔扎城堡 Castello Sforzesco
-7. 森皮奥内公园 Parco Sempione
-8. 和平门 Arco della Pace
-9. 唐人街 / Via Paolo Sarpi
-10. 晚饭后回酒店
+**推荐路线（按顺序）**
+1. **米兰大教堂｜Duomo di Milano**
+2. **埃马努埃莱二世拱廊｜Galleria Vittorio Emanuele II**
+3. **斯卡拉广场｜Piazza della Scala**
+4. **布雷拉街区｜Brera** — 以街区散步为主
+5. **斯福尔扎城堡｜Castello Sforzesco** — 外观和中庭
+6. **森皮奥内公园｜Parco Sempione** — 休息
+7. **和平门｜Arco della Pace**
+8. **米兰唐人街｜Chinatown / Via Paolo Sarpi** — 晚饭
 
 ### 米兰景点策略
 - 以拍照、街区散步为主。
